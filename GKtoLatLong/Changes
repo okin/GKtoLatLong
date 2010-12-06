@@ -1,0 +1,6 @@
+Revision history for Perl extension GKtoLatLong.
+
+0.01  Mon Dec  6 22:02:20 2010
+	- original version; created by h2xs 1.23 with options
+		-b 5.6.1 -AX GKtoLatLong
+
