@@ -224,13 +224,11 @@ sub convertToClassicNotation
 
 1;
 __END__
-# Below is stub documentation for your module. You'd better edit it!
+=head1 GKtoLatLong
 
-=head1 NAME
+Perl extension to convert a point in a Gauss-Krüger coordinate system into a latitude / longitude value.
 
-GKtoLatLong - Perl extension to convert a point in a Gauss-Krüger coordinate system into a latitude / longitude value.
-
-=head1 SYNOPSIS
+=head1 USAGE
 
   use GKtoLatLong;
   
@@ -273,10 +271,6 @@ All subs.
 
 =head1 SEE ALSO
 
-If you have a web site set up for your module, mention it here.
-The Github-Repository is this module:
-https://github.com/okin/GKtoLatLong
-
 Florian Wetzels JavaScript converter that was used as source for the code:
 http://calc.gknavigation.de/
 
@@ -294,6 +288,4 @@ You may feel free to alter, share and use it in any way you like it.
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.10.1 or,
 at your option, any later version of Perl 5 you may have available.
-
-
 =cut
